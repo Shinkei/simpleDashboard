@@ -26,8 +26,8 @@ const StyledHeader = styled.header`
 
   .right-nav{
     text-align:right;
-    font-size:45px;
-    padding-top:37px;
+    font-size:37px;
+    padding-top:42px;
     a{
       margin-left:27px;
       color:#999;
