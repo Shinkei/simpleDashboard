@@ -41,21 +41,27 @@ class Diagram extends React.Component{
         <div className="diagram-container">
           <div>
             <FontAwesomeIcon icon={faIndustry} />
+            <hr/>
           </div>
           <div>
             <FontAwesomeIcon icon={faIndustry} />
+            <hr/>
           </div>
           <div>
             <FontAwesomeIcon icon={faIndustry} />
+            <hr/>
           </div>
           <div>
             <FontAwesomeIcon icon={faIndustry} />
+            <hr/>
           </div>
           <div>
             <FontAwesomeIcon icon={faIndustry} />
+            <hr/>
           </div>
           <div>
             <FontAwesomeIcon icon={faIndustry} />
+            <hr/>
           </div>
           <div>
             <FontAwesomeIcon icon={faIndustry} />

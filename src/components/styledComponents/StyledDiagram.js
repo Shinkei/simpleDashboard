@@ -10,6 +10,18 @@ const StyledDiagram = styled.div`
     text-align:center;
     padding-top: 30px;
     padding-bottom: 30px;
+    svg{
+      border: solid;
+      padding: 9px;
+      border-radius: 100%;
+    }
+    hr{
+      display: inline-block;
+      float: right;
+      width: 10%;
+      position: absolute;
+      margin-top: 18px;
+    }
   }
 
   .button-container{
